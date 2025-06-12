@@ -14,12 +14,7 @@ Refer the commented code for the output statements.
 
 Consider π = 3.14*/
 
-IMPLEMENTATION //Your code goes here
-
-
-
-
-//Please Do not change anything below, It is only for your reference.
+//IMPLEMENTATION 
 /*
 
 This is the driver code that will execute and demonstrate the functionality of your class `ShapeCalculator`.
