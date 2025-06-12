@@ -61,7 +61,7 @@ System.out.println("The dog " + name + " says : Woof!");
 System.out.println("The cat " + name + " says : Meow!");
 
 */
-Code:
+//Code:
 abstract class Animal{
     public String name;
     Animal(String name){
