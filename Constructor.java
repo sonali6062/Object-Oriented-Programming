@@ -1,4 +1,5 @@
-
+//https://www.geeksforgeeks.org/cpp/can-constructor-private-cpp/
+//It's a myth that the constructor is always public.It can have any type of access specifier. that can be public,private or protected. It can be done using friend class.
 class Rectangle {
     private double length;
     private double width;
