@@ -1,3 +1,4 @@
+Shallow copy is called automatically even if we don't define the copy constructor but for deep copy user has toh provided the yser defined code and it has to be deleted manually.
 /*You are required to design a class hierarchy to demonstrate object cloning using shallow and deep copying in a library system. A Library contains a list of Book objects.
 Shallow Copy: Creates a new object that shares references with the original object for nested structures.
 Deep Copy: Creates a completely independent copy of the original object, including all nested structures.
